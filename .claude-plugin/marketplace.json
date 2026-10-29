@@ -1,0 +1,11 @@
+{
+  "name": "maix-claude-mods",
+  "owner": { "name": "maxma241" },
+  "plugins": [
+    {
+      "name": "turn-index",
+      "source": "./turn-index",
+      "description": "Collapsible one-line list of your prompts above the input; click one to jump to that turn"
+    }
+  ]
+}

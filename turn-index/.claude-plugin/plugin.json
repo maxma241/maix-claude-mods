@@ -1,0 +1,9 @@
+{
+  "name": "turn-index",
+  "version": "0.1.0",
+  "description": "Collapsible one-line list of your prompts above the input; click one to jump to that turn",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "maxma241"
+  }
+}
